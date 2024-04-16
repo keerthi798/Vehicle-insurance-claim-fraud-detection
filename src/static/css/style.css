@@ -1,0 +1,37 @@
+/* styles.css */
+
+/* Custom styles for body */
+body {
+    background-image: url("/static/img/download.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black;
+    background-color : yellow;
+}
+/* Custom styles for container */
+.container {
+    margin-top: 20px;
+}
+
+/* Custom styles for heading */
+h2 {
+    color: blue;
+}
+
+/* Custom styles for row */
+.row {
+    margin-bottom: 20px;
+}
+
+/* Custom styles for text-center class */
+.text-center {
+    text-align: center;
+}
+/* Custom styles for py-5 class */
+.py-5 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+
